@@ -1,2 +1,6 @@
 # PANDEALO-E-commerce-Website
-This is  my E-commerce website.
+The project PANDEALO is formally an E-commerce website. HTML, CSS, JavaScript, & Bootstrap used as frontend designed and Object Oriented PHP used as Server site language. MySQLi used as RDBMS.
+ An administration panel is created for manipulating product and user’s information and allows their role to be changed. The shopping *Cart & *Wishlist sections enable to ensure the current purchase product in cart & wishlist for future desire product. But cart & wishlist features only enable for logged in users. It also provides *User authentication system & *Profile update feature.  PANDEALO provides two types of products, one is *General & other is *Branded product. One can easily compare different types of products using *Compare features. It contains *Real-time update features of cart & wish list. The cart will reset when user *Logged out but wishlist remain constant. One can get in touch with PANDEALO by *Contact features. It also provides two way of *Payment system.
+*Admin panel can add and update product categories. They can add different types of product and update product’s list. They also maintain data of user’s list. An order from user is confirmed after the confirmation of admin panel. It also notifies the user when the order is shifted. Finally, admin panel will contact with user who want get in touch with PANDEALO.
+
+[Footnotes:* used as denoting the features of the website.]
